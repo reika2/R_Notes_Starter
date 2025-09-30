@@ -1,0 +1,23 @@
+---
+title: "R-links"
+author: "RM"
+date: "07/03/2022"
+output: html_document
+---
+
+Network analysis with R and igraph: NetSci X Tutorial
+By Katya Ognyanova
+https://kateto.net/networks-r-igraph
+
+Symbols for R
+https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
+
+R markdown for Scientists
+https://rmd4sci.njtierney.com/
+
+https://epirhandbook.com/en/simple-statistical-tests.html
+
+UCLA Statistics (R)
+https://stats.oarc.ucla.edu/r/
+--> list of books and links https://stats.oarc.ucla.edu/ucla/books/#DownR
+

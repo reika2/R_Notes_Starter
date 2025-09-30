@@ -1,0 +1,108 @@
+---
+title: "Reading list"
+output: html_notebook
+---
+
+# Reading List
+
+You can find more information about
+
+## 1. Statistics
+
+### 1.1 Probability
+
+### 1.2 Statistical Inference
+
+-   Ronald L. Wasserstein, Allen L. Schirm & Nicole A. Lazar (2019) Moving to a World Beyond “p \< 0.05”, The American Statistician, 73:sup1, 1-19 [DOI: 10.1080/00031305.2019.1583913](https://doi.org/10.1080/00031305.2019.1583913).
+
+-   David Colquhoun (2017) The reproducibility of research and the misinterpretation of p-values, Royal Society Open Science, 4:12 [DOI: 10.1098/rsos.171085](https://doi.org/10.1098/rsos.171085).
+
+-   Geoff Cumming (2014) The New Statistics: Why and How, Psychological Science, 25(1), 7-29 [DOI: 10.1177/0956797613504966](https://doi.org/10.1177/0956797613504966).
+
+-   Geoff Cumming (2012) Understanding The New Statistics: Effect Sizes, Confidence Intervals, and Meta-Analysis. Routledge. [Link](https://www.routledge.com/Understanding-The-New-Statistics-Effect-Sizes-Confidence-Intervals-and-Meta/Cumming/p/book/9780415875167)
+
+-   Andrew Gelman & John Carlin (2014) Beyond Power Calculations: Assessing Type S (Sign) and Type M (Magnitude) Errors, Perspectives on Psychological Science, 9(6), 641-651 [DOI: 10.1177/1745691614551642](https://doi.org/10.1177/1745691614551642).
+
+-   John P. A. Ioannidis (2005) Why Most Published Research Findings Are False, PLoS Med 2(8): e124. [DOI: 10.1371/journal.pmed.0020124](https://doi.org/10.1371/journal.pmed.0020124).
+
+-   David Colquhoun (2014) An investigation of the false discovery rate and the misinterpretation of p-values, Royal Society Open Science, 1:3 [DOI: 10.1098/rsos.140216](https://doi.org/10.1098/rsos.140216).
+
+-   David Colquhoun (2016) The reproducibility of research and the misinterpretation of p-values. Royal Society Open Science, 3:12 [DOI: 10.1098/rsos.160254](https://doi.org/10.1098/rsos.160254).
+
+-   David Colquhoun (2019) The false positive risk: A proposal concerning what to do about p-values, The American Statistician, 73:sup1, 192-201 [DOI: 10.1080/00031305.2018.1529622](https://doi.org/10.1080/00031305.2018.1529622).
+
+### 1.3 Regression
+
+### 1.4 Bayesian Statistics
+
+-   Elly A. Konijn, Rens van de Schoot, Sonja D. Winter & Christopher J. Ferguson (2015) Possible Solution to Publication Bias Through Bayesian Statistics, Including Proper Null Hypothesis Testing, Communication Methods and Measures, 9:4, 280-302 [DOI: 10.1080/19312458.2015.1096332](https://doi.org/10.1080/19312458.2015.1096332)
+
+-   Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari & Donald Rubin (2013) Bayesian Data Analysis, Third Edition. Chapman and Hall/CRC. [Link](https://www.routledge.com/Bayesian-Data-Analysis-Third-Edition/Gelman-Carlin-Stern-Dunson-Vehtari-Rubin/p/book/9781439840955)
+
+-   Richard McElreath (2020) Statistical Rethinking: A Bayesian Course with Examples in R and Stan, Second Edition. Chapman and Hall/CRC. [Link](https://www.routledge.com/Statistical-Rethinking-A-Bayesian-Course-with-Examples-in-R-and-Stan/McElreath/p/book/9780367139914)
+
+-   John Kruschke (2014) Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan, Second Edition. Academic Press. [Link](https://www.elsevier.com/books/doing-bayesian-data-analysis-kruschke/kruschke/978-0-12-405888-0)
+
+-   Eddy, S. What is Bayesian statistics?. Nat Biotechnol 22, 1177–1178 (2004).[10.1038/nbt0904-1177](https://doi.org/10.1038/nbt0904-1177).
+
+### 1.5 Time Series Analysis
+
+-   Rob J Hyndman & George Athanasopoulos (2018) Forecasting: principles and practice, 2nd edition, OTexts: Melbourne, Australia. OTexts.com/fpp2. [Link](https://otexts.com/fpp3/)
+
+-   Paul S.P. Cowpertwait & Andrew V. Metcalfe (2009) Introductory Time Series with R, Springer. [Link](https://www.springer.com/gp/book/9780387925641)
+
+-   Robert H. Shumway & David S. Stoffer (2017) Time Series Analysis and Its Applications: With R Examples, Fourth Edition. Springer. [Link](https://www.springer.com/gp/book/9783319524511)
+
+-   James D. Hamilton (1994) Time Series Analysis, Princeton University Press. [Link](https://press.princeton.edu/books/hardcover/9780691042893/time-series-analysis)
+
+-   Ruey S. Tsay (2010) Analysis of Financial Time Series, Third Edition. Wiley. [Link](https://www.wiley.com/en-us/Analysis+of+Financial+Time+Series%2C+3rd+Edition-p-9780470414354)
+
+-   Rob J Hyndman (2024) fable: Forecasting Models for Tidy Time Series. R package version 0.4.5. [CRAN Link](https://CRAN.R-project.org/package=fable)
+
+-   Rob J Hyndman (2024) fabletools: Infrastructure for 'fable' Models. R package version 0.4.5. [CRAN Link](https://CRAN.R-project.org/package=fabletools)
+
+### 1.6 Multivariate Statistics
+
+-   
+
+### 1.7 Non-parametric Statistics
+
+
+### 1.8 Statistical Computing
+
+
+### Sample size determination
+
+-  Thomas P. Ryan (2013) Sample Size Determination and Power, Second Edition. Wiley. [Link](https://www.wiley.com/en-us/Sample+Size+Determination+and+Power%2C+2nd+Edition-p-9781118590707)
+
+-  Steven A. Julious (2009) Sample Sizes for Clinical Trials, Chapman and Hall/CRC. [Link](https://www.routledge.com/Sample-Sizes-for-Clinical-Trials/Julious/p/book/9781584888764)
+
+- Steven A. Julious (2004) Sample Size of 12 per Group Rule of Thumb for a Pilot Study, Pharmaceutical Statistics, 4(4), 287-291 [DOI: 10.1002/pst.185](https://doi.org/10.1002/pst.185).
+
+- Althubaiti A. Sample size determination: A practical guide for health researchers. J Gen Fam Med. 2022 Dec 14;24(2):72-78.[DOI: 10.1002/jgf2.600.](https://pmc.ncbi.nlm.nih.gov/articles/PMC10000262/)
+
+## 2. R programming
+
+### 2.1 Data Manipulation
+
+### 2.2 Data Visualization
+
+### 2.3 Functional Programming
+
+### 2.4 Object-Oriented Programming
+
+### 2.5 Performance Optimization
+
+## 3. Machine Learning
+
+### 3.1 Supervised Learning
+
+### 3.2 Unsupervised Learning
+
+### 3.3 Deep Learning
+
+### 3.4 Model Evaluation
+
+### 3.5 Feature Engineering
+
+R Notebooks [here](https://rmarkdown.rstudio.com/authoring_notebooks.html).
